@@ -18,15 +18,15 @@ Crypto voxels 加密 体素，“加密”一词在大家看来可能具有负�
 
 | Tutorials |  / |Scripting examples|
 |------|------|------|
-| [制作 Vox 模型](Make-a-Vox-Model) |/| [移动/旋转/缩放一个功能](Move-rotate-scale-Feature) |
-| [制作穿戴品](Create-a-wearable) |/| [点击触发器](Click-trigger) |
-| [编辑服装](#Costume_tab) |/| [使 Vox 面对玩家](Turn) |
-| [任务肤色](#Avatar_skin) |/| [井字游戏](TicTacToe) |
-| [编辑用户名](Edit-Username) |/| [六位数字键盘](keypad_six_digits) |
-| [购买地块](Buy-a-parcel) |/| [欢迎/再见 消息](welcome_message) |
-| [购买穿戴品](Buy-a-Wearable) |/| [一个简单的门](Simple-Door) |
+| [制作 Vox 模型](../Parcels/vox-model.md) |/| [移动/旋转/缩放一个功能](../Scripting/Examples/Move-rotate-scale-Feature.md) |
+| [制作穿戴品](../Players/make_wearable.md) |/| [点击触发器](../Scripting/Examples/Click-trigger.md) |
+| [编辑服装](../Players/Costume_tab.md) |/| [使 Vox 面对玩家](../Scripting/Examples/Turn.md) |
+| [任务肤色](../Players/Avatar_skin.md) |/| [井字游戏](../Scripting/Examples/TicTacToe.md) |
+| [编辑用户名](../Players/edit_username.md) |/| [六位数字键盘](../Scripting/Examples/keypad_six_digits.md) |
+| [购买地块](../Parcels/buy_a_parcel.md) |/| [欢迎/再见 消息](../Scripting/Examples/welcome_message.md) |
+| [购买穿戴品](../Players/buy_a_wearable.md) |/| [一个简单的门](../Scripting/Examples/Simple-Door.md) |
 
-## [地块 Parcels](Parcels)
+## [地块 Parcels](../Parcels)
 
 地块是位于 Cryptovoxels 虚拟宇宙中的一块土地。
 每个地块位于不同的[邻居](https://wiki.cryptovoxels.com/en/The-world)并且具有不同的尺寸。
@@ -36,11 +36,11 @@ Crypto voxels 加密 体素，“加密”一词在大家看来可能具有负�
 有关您可以在地块上建造什么的信息，请访问[此处](https://wiki.cryptovoxels.com/en/Parcels/Building)。
 您还可以使用免费的 [spaces](https://wiki.cryptovoxels.com/Spaces) 预先进行实验。
 
-## [玩家 Players](Players)
+## [玩家 Players](../Players)
 
 在虚拟世界中，您有多种方法可以自定义您的角色。
 
-## [功能 Features](Features) 
+## [功能 Features](../-Features) 
 
 要放置功能，您必须位于具有建筑权的地块中，然后按 TAB 键。
 
@@ -59,6 +59,6 @@ Crypto voxels 加密 体素，“加密”一词在大家看来可能具有负�
 |<img width='16' src='https://www.cryptovoxels.com/icons/vid-screen.png' /> [游戏屏幕VidScreen](#vid-screen) |可编程的 64x64 屏幕|<img width='16' src='https://www.cryptovoxels.com/icons/vox-model.png' /> [小模型VOX](#vox-model) |小 .vox 模型|
 |<img width='16' src='https://www.cryptovoxels.com/icons/youtube.png' /> [Youtube/Twitch](#youtube) |嵌入视频和直播|
 
-## [脚本编程 Scrpting](Scripting)
+## [脚本编程 Scrpting](../Scripting)
 
 这里是关于 Scripting 系统的文档，这里是一些关于 Animation-API 的文档动画 API。脚本系统可用于制作动画并使您的地块具有交互性。脚本在您的浏览器中运行（使用 untrusted.Voxels.com 上的 webworker ），但如果您在地块设置下启用“网格脚本” - 它们将在 The Grid 我们的多人游戏服务器上运行。

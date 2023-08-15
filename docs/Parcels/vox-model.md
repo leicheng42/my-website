@@ -1,5 +1,5 @@
 (Make-a-Vox-Model)=
-# 制作 vox 模型
+# 📦 制作 vox 模型
 
 Cryptovoxels具有允许导入.vox和Mega-vox功能的功能。
 您可以查看 [voxel库](https://wiki.cryptovoxels.com/voxel-library)，了解vox模型的示例。
