@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '中文 Voxels Wiki',
-  tagline: '非官方的 Voxels 文档',
+  tagline: '雷电所的 Voxels 教程',
   staticDirectories: ['public', 'static'],
   favicon: 'img/logo.jpg',
 

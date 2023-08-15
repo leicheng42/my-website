@@ -1,4 +1,3 @@
-(introduction)=
 # 介绍
 
 ## 体素（Voxels）

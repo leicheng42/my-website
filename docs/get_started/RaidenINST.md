@@ -1,5 +1,4 @@
-(raiden)=
-# Voxels中的雷电所
+# Voxels 里的雷电所
 
 ## [前往雷电所](https://www.voxels.com/play?coords=SW@1369W,1116S)
 
